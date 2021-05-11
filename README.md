@@ -1,5 +1,5 @@
 - Hi, I’m @chmullens, Chris Mullens
-- I’m interested in data! Analysis, statistics, visualization
+- I’m interested in data! Analysis, statistics, visualization, you name it.
 - I’m currently focusing on Python, SQL and applying machine learning techniques. 
 - At some point, I'm going to get a multidimensional Kalman filter set up for a 
   pet project I've been working on with Steam community market data. It's been
