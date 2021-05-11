@@ -1,4 +1,4 @@
-- Hi, I’m @chmullens, Chris Mullens
+- Hi, I’m Chris Mullens, @chmullens here
 - I’m interested in data! Analysis, statistics, visualization, you name it.
 - I’m currently focusing on Python, SQL and applying machine learning techniques. 
 - At some point, I'm going to get a multidimensional Kalman filter set up for a 
