@@ -1,4 +1,4 @@
-- Hi, I’m Chris Mullens, @chmullens here and any other professional sites I'm on
+- Hi, I’m Chris Mullens, @chmullens here and most other professional sites I'm on
 - I’m interested in data! Analysis, statistics, visualization, and other tools.
 - I’m currently focusing on Python, SQL, R and applying machine learning techniques in Python and R.  
 - You can reach me at chmullens@gmail.com, or chmullens on LinkedIn
